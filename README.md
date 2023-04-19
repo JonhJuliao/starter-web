@@ -4,8 +4,10 @@ This repository is for showing how Git and GitHub work
 
 ## Introdutcion
 
-##Purpose
+## Purpose
 
 Sample website with plenty of files for demos
 
-##How To Contribuite
+## Deploymenr
+
+## How To Contribuite
