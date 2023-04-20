@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jonathan   jon.m.juliao@gmail.com   @jonathan.juliao
 
 # THANKS
 
